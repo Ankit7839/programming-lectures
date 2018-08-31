@@ -8,3 +8,10 @@ let intro = function(myage){
 }
 intro(30);
 console.log(sum(2,3));
+
+let sayHello = function(name){
+    console.log('hello ${name}');
+    
+}
+
+sayHello("Mayur");
