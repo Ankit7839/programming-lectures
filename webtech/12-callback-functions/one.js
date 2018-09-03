@@ -9,8 +9,7 @@ todo.forEach(function(todoItem, index, index1) {
 });
 
 //using arrow funciton
-
 todo.forEach(element => {
-console.log(element);
+    console.log(element);
     
 });
