@@ -1,5 +1,3 @@
-import jdk.nashorn.internal.ir.ReturnNode;
-
 public class Question{
     int var1, var2;
     int sum(int val1, int val2){
